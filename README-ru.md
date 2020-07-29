@@ -3752,8 +3752,8 @@ l10n:p -->
 | Хранилище данных | **Bigtable** - распределённая колоночная база данных от Google | [harvard.edu](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/chang06bigtable.pdf) |
 | Хранилище данных | **HBase** - Реализация Bigtable с открытым исходным кодом | [slideshare.net](http://www.slideshare.net/alexbaranau/intro-to-hbase) |
 | Хранилище данных | **Cassandra** - распределённая колоночная база данных от Facebook | [slideshare.net](http://www.slideshare.net/planetcassandra/cassandra-introduction-features-30103666)
-| Хранилище данных | **DynamoDB** - Документно-ориенитрованная база данных от Amazon | [harvard.edu](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/decandia07dynamo.pdf) |
-| Хранилище данных | **MongoDB** - Документно-ориенитрованная база данных | [slideshare.net](http://www.slideshare.net/mdirolf/introduction-to-mongodb) |
+| Хранилище данных | **DynamoDB** - Документно-ориентированная база данных от Amazon | [harvard.edu](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/decandia07dynamo.pdf) |
+| Хранилище данных | **MongoDB** - Документно-ориентированная база данных | [slideshare.net](http://www.slideshare.net/mdirolf/introduction-to-mongodb) |
 | Хранилище данных | **Spanner** - Глобально-распределённая база данных от Google | [research.google.com](http://research.google.com/archive/spanner-osdi2012.pdf) |
 | Хранилище данных | **Memcached** - Распределённый кэш, хранящийся в памяти | [slideshare.net](http://www.slideshare.net/oemebamo/introduction-to-memcached) |
 | Хранилище данных | **Redis** - Распределённая система кэширования с возможностью сохранения и типами данных | [slideshare.net](http://www.slideshare.net/dvirsky/introduction-to-redis) |
