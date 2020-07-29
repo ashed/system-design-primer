@@ -35,6 +35,7 @@ generate () {
 }
 
 generate_with_solutions
+generate README-ru ru
 generate README-ja ja
 generate README-zh-Hans zh-Hans
 generate README-zh-TW zh-TW
